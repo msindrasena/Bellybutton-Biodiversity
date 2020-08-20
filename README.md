@@ -7,6 +7,8 @@ Based on that person's ID, you can find demographic information such as ethnicit
 
 ## Visual representations
 Once an ID is selected,
+
+
   The guage determines the frequency of washing the belly button area for each volunteer.
   The bar graph represents the top 10 bacteria found in the nasal for that specific person.
   The Bubble Graph is used to visualize the relative frequency of all the bacterial species found in that volunteer's navel.  
