@@ -22,3 +22,7 @@ Languages: HTML, CSS, JavaScript
 Further thoughts:
 It might be interesting to use demographic information to compare similarities/differences and see if there is a correlation or some
 sort of 'ideal person' for particular bacteria that the lab is interested in. 
+
+
+
+![](https://github.com/msindrasena/Bellybutton-Biodiversity/blob/master/bellybuttonwebsite.PNG)
